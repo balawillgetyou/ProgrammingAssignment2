@@ -1,5 +1,5 @@
 ## These functions collectively calculate the inverse of a given matrix and then help
-## improve performance by caching and retrieving the inverse
+## improve performance by caching and retrieving the inverse 
 
 ## This main function includes 4 sub-functions that can store and retrieve a matrix
 ## and its inverse
